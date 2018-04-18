@@ -30,6 +30,7 @@ public class BuyBookModel implements IBuyBookModel {
                 list.add(new DingTestBean("黄忠、孙权、大乔", 50, "09-27 09:11"));
                 list.add(new DingTestBean("大乔、小乔、貂蝉、孙尚香", 300, "09-27 09:11"));
 
+                
 //                Random rd = new Random();
 //                int N = rd.nextInt(10);
 //                //模拟网络请求
