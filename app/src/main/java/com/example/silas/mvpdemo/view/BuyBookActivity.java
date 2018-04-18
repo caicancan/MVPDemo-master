@@ -17,6 +17,7 @@ public class BuyBookActivity extends BaseActivity<BuyBookPresenter> implements I
     private ListView mListView;
     private MyAdapter mAdapter;
 
+    
     //上面的四个方法是重写父类里面的方法
     @Override
     BuyBookPresenter initPresent()
