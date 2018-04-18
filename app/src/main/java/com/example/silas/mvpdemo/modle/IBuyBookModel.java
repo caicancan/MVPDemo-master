@@ -7,6 +7,7 @@ import java.util.List;
 /**
  * Created by Silas on 2016/10/7.
  * modle层，涉及到网络请求获取数据
+ * modle的接口
  */
 
 public interface IBuyBookModel {
@@ -17,7 +18,7 @@ public interface IBuyBookModel {
 
 
     /**
-     * 返回本地adapter数据
+     * 返回本地adapter数据,得到集合
      * @return
      */
     List<DingTestBean> getAdapterData();

@@ -8,6 +8,8 @@ import com.example.silas.mvpdemo.R;
 
 /**
  *  Created by Silas on 2016/10/7.
+ *  先是实现接口里面的三个方法
+ *  获得presener（代理者）
  */
 public class BuyBookActivity extends BaseActivity<BuyBookPresenter> implements IBuyBookView
 {
