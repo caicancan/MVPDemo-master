@@ -49,8 +49,8 @@ public class MyAdapter extends BaseAdapter
         MyViewHolder viewHolder = null;
         if (convertView == null)
         {
-            viewHolder = new MyViewHolder(convertView);
             convertView = View.inflate(mContext, R.layout.lst_item, null);
+            viewHolder = new MyViewHolder(convertView);
             convertView.setTag(viewHolder);
         }
         else

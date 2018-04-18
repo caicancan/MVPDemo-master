@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">OddLayout</string>
+    <string name="app_name">Mvp</string>
     <string name="bracket_people">(%1$s人)</string>
 </resources>

@@ -18,6 +18,7 @@ public class BuyBookActivity extends BaseActivity<BuyBookPresenter> implements I
     @Override
     BuyBookPresenter initPresent()
     {
+        //初始化得到presenter
         return new BuyBookPresenter(this);
     }
 
@@ -37,21 +38,23 @@ public class BuyBookActivity extends BaseActivity<BuyBookPresenter> implements I
     @Override
     void onPrepare()
     {
-        
         mAdapter = new MyAdapter(this, basepresenter.getAdapterData());
         mListView.setAdapter(mAdapter);
+        //得到p
         basepresenter.initData();
     }
 
     @Override
     public void showToast(String msg)
     {
+
         Toast.makeText(this, msg, Toast.LENGTH_LONG).show();
     }
 
     @Override
     public void refreshAdapter()
     {
+
         mAdapter.notifyDataSetChanged();
     }
 

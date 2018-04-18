@@ -34,14 +34,14 @@ public class BuyBookPresenter extends BasePresenter<BuyBookActivity> implements 
             @Override
             public void onSuccess(List<DingTestBean> dingTestBeans) {
                 //在这里取消loading
-                //简单数据操作可以在presenter里完成
+                //简单数据操作可以在presenter里完成，接口回调，在view里面进行刷新界面
                 mModel.getAdapterData().addAll(dingTestBeans);
                 mView.refreshAdapter();
             }
 
             @Override
             public void onFail(String code) {
-                //在这里取消loading
+                //在这里取消loading，在view里面进行刷新界面
                 mView.showToast(code);
                 mView.onEmpty();
             }
