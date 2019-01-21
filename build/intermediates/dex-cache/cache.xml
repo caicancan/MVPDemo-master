@@ -3,75 +3,133 @@
 
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\72ed7d8b546764f249f25419eff47692\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_deb33872986cab675de88ffba24b56929a039807.jar" />
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\86eb4cf58c4343f86c327122c4f63749\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_995a261c167b8eb9126b65171516028caba0fe3b.jar" />
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1222efa2cbb7da6b94696e7d5aff5e24\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="2c7a1f58c2d899bc4f6f615d80f7e9b7da0c3b0f">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\instant-run_eb038eb42a65c17e5714ab877343bdbfbdc8b316.jar" />
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_2b438f502a4ac13cddada0ad4765e4d8f70fe36b.jar" />
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\10.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\android_soft\android-sdk-windows_r24.4.1\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ced32716a689c8bd8708edc8c3f2826b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9b94e2cad03c2aafb58d5c34fd62aedfbbb9ba67.jar" />
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c57c324eaf8edf44573fd7a5ae18974f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="568ba49e9c43a388d39667f60196aa53b9538660">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b58e9c17fbecd73654ab5f71dcdaa6186ab86e2e.jar" />
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\11.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6380d6b72d690cb60fdff812cb2427fc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0bb6b6f80ccddac14f78103d4ceaf898e1339723.jar" />
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\226fd57014dcc3c0cb1510a56a48502e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="24.0.0"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="J:\OddLayout-MVP\MVPDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f97a8ad2dd312ff862c60c26ae94464119144ccb.jar" />
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\58994d504fb681e6538d5ad96820b3c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\30101f7f145d866e2b048f3b33d61bc4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\25f7a2ba46ab587c3492e7472485bc93\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\MVPDemo-master\app\build\intermediates\transforms\preDex\release\1.jar" />
     </item>
 
 </items>
